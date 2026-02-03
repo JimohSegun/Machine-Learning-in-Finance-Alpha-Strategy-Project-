@@ -1,18 +1,21 @@
-# Machine Learning in Finance  
+# Machine Learning in Finance
 
 ## Repository Contents
-- `notebooks/` – Jupyter notebooks used for data analysis and model implementation  
-- `reports/` – Project notes and written explanations (PDF/DOC)  
-- `data/` – Datasets used for the analysis (publicly available sources)  
+- `notebooks/` – Jupyter notebooks for data preprocessing, exploratory analysis, and model implementation  
+- `reports/` – Supporting project documentation and written explanations (DOC)  
+- `data/` – Financial datasets sourced from publicly available repositories (e.g., Kaggle, Yahoo Finance)
 
 ## Project Overview
-The project explores the use of machine learning techniques in finance to identify patterns, manage risk, and generate alpha signals.  
-The models covered include:
-- LASSO regression  
-- Clustering methods (e.g., K-means)  
-- Tree-based models  
+This repository contains a **collaborative academic project** exploring the application of machine learning techniques in finance to identify patterns in market data, manage risk, and support data-driven investment decisions.
 
-These techniques are applied to financial datasets to support portfolio construction and investment decision-making.
+My primary contribution focused on the **Python implementation of machine learning models**, including data preprocessing, feature engineering, model training, and result interpretation.
+
+The techniques applied in this project include:
+- **LASSO regression** for feature selection and regularization  
+- **Clustering methods (K-Means)** for identifying structure in financial return and volatility data  
+- **Tree-based models** for non-linear pattern discovery  
+
+These models were applied to financial datasets to support portfolio analysis and investment decision-making.
 
 ## Tools & Technologies
 - Python  
@@ -21,9 +24,7 @@ These techniques are applied to financial datasets to support portfolio construc
 - Matplotlib  
 
 ## Key Learning Outcomes
-- Feature selection and dimensionality reduction  
-- Hyperparameter tuning and model evaluation  
-- Interpretation of machine learning outputs for financial decisions  
-
-
-
+- Implementing and evaluating machine learning models using Python  
+- Feature selection, dimensionality reduction, and regularization techniques  
+- Hyperparameter tuning and model performance evaluation  
+- Interpreting machine learning outputs in a financial context  
